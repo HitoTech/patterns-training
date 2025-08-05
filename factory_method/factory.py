@@ -1,5 +1,3 @@
-from unittest import case
-
 from notifier import *
 
 def create_notifier(channel: str) -> Notifier:
